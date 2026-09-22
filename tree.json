@@ -1,0 +1,1239 @@
+{
+  "ok": true,
+  "rootName": "媒体库",
+  "tree": {
+    "name": "媒体库",
+    "children": {
+      "jennefier reading": {
+        "name": "jennefier reading",
+        "children": {},
+        "tracks": [
+          {
+            "title": "day1",
+            "audioUrl": "jennefier%20reading/day1.mp3",
+            "subUrl": null,
+            "subType": null,
+            "folderPath": "jennefier reading",
+            "relPath": "jennefier reading/day1.mp3"
+          },
+          {
+            "title": "day2",
+            "audioUrl": "jennefier%20reading/day2.mp3",
+            "subUrl": null,
+            "subType": null,
+            "folderPath": "jennefier reading",
+            "relPath": "jennefier reading/day2.mp3"
+          },
+          {
+            "title": "day3",
+            "audioUrl": "jennefier%20reading/day3.mp3",
+            "subUrl": null,
+            "subType": null,
+            "folderPath": "jennefier reading",
+            "relPath": "jennefier reading/day3.mp3"
+          }
+        ]
+      },
+      "medium_level": {
+        "name": "medium_level",
+        "children": {},
+        "tracks": [
+          {
+            "title": "L1朗读",
+            "audioUrl": "medium_level/L1%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": "medium_level/L1%E6%9C%97%E8%AF%BB.srt",
+            "subType": "srt",
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L1朗读.mp3"
+          },
+          {
+            "title": "L2朗读",
+            "audioUrl": "medium_level/L2%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": "medium_level/L2%E6%9C%97%E8%AF%BB.srt",
+            "subType": "srt",
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L2朗读.mp3"
+          },
+          {
+            "title": "L3朗读",
+            "audioUrl": "medium_level/L3%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": "medium_level/L3%E6%9C%97%E8%AF%BB.srt",
+            "subType": "srt",
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L3朗读.mp3"
+          },
+          {
+            "title": "L4朗读",
+            "audioUrl": "medium_level/L4%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": "medium_level/L4%E6%9C%97%E8%AF%BB.srt",
+            "subType": "srt",
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L4朗读.mp3"
+          },
+          {
+            "title": "L5朗读",
+            "audioUrl": "medium_level/L5%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": "medium_level/L5%E6%9C%97%E8%AF%BB.srt",
+            "subType": "srt",
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L5朗读.mp3"
+          },
+          {
+            "title": "L6朗读",
+            "audioUrl": "medium_level/L6%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": "medium_level/L6%E6%9C%97%E8%AF%BB.srt",
+            "subType": "srt",
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L6朗读.mp3"
+          },
+          {
+            "title": "L7朗读",
+            "audioUrl": "medium_level/L7%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": "medium_level/L7%E6%9C%97%E8%AF%BB.srt",
+            "subType": "srt",
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L7朗读.mp3"
+          },
+          {
+            "title": "L8朗读",
+            "audioUrl": "medium_level/L8%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": "medium_level/L8%E6%9C%97%E8%AF%BB.srt",
+            "subType": "srt",
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L8朗读.mp3"
+          },
+          {
+            "title": "L9朗读",
+            "audioUrl": "medium_level/L9%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": null,
+            "subType": null,
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L9朗读.mp3"
+          },
+          {
+            "title": "L10朗读",
+            "audioUrl": "medium_level/L10%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": null,
+            "subType": null,
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L10朗读.mp3"
+          },
+          {
+            "title": "L11朗读",
+            "audioUrl": "medium_level/L11%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": null,
+            "subType": null,
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L11朗读.mp3"
+          },
+          {
+            "title": "L12朗读",
+            "audioUrl": "medium_level/L12%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": null,
+            "subType": null,
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L12朗读.mp3"
+          },
+          {
+            "title": "L13朗读",
+            "audioUrl": "medium_level/L13%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": null,
+            "subType": null,
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L13朗读.mp3"
+          },
+          {
+            "title": "L14朗读",
+            "audioUrl": "medium_level/L14%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": null,
+            "subType": null,
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L14朗读.mp3"
+          },
+          {
+            "title": "L15朗读",
+            "audioUrl": "medium_level/L15%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": null,
+            "subType": null,
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L15朗读.mp3"
+          },
+          {
+            "title": "L16朗读",
+            "audioUrl": "medium_level/L16%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": null,
+            "subType": null,
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L16朗读.mp3"
+          },
+          {
+            "title": "L17朗读",
+            "audioUrl": "medium_level/L17%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": null,
+            "subType": null,
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L17朗读.mp3"
+          },
+          {
+            "title": "L18朗读",
+            "audioUrl": "medium_level/L18%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": null,
+            "subType": null,
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L18朗读.mp3"
+          },
+          {
+            "title": "L19朗读",
+            "audioUrl": "medium_level/L19%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": null,
+            "subType": null,
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L19朗读.mp3"
+          },
+          {
+            "title": "L20朗读",
+            "audioUrl": "medium_level/L20%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": null,
+            "subType": null,
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L20朗读.mp3"
+          },
+          {
+            "title": "L21朗读",
+            "audioUrl": "medium_level/L21%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": null,
+            "subType": null,
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L21朗读.mp3"
+          },
+          {
+            "title": "L22朗读",
+            "audioUrl": "medium_level/L22%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": null,
+            "subType": null,
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L22朗读.mp3"
+          },
+          {
+            "title": "L23朗读",
+            "audioUrl": "medium_level/L23%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": null,
+            "subType": null,
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L23朗读.mp3"
+          },
+          {
+            "title": "L24朗读",
+            "audioUrl": "medium_level/L24%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": "medium_level/L24%E6%9C%97%E8%AF%BB.srt",
+            "subType": "srt",
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L24朗读.mp3"
+          },
+          {
+            "title": "L25朗读",
+            "audioUrl": "medium_level/L25%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": "medium_level/L25%E6%9C%97%E8%AF%BB.srt",
+            "subType": "srt",
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L25朗读.mp3"
+          },
+          {
+            "title": "L26朗读",
+            "audioUrl": "medium_level/L26%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": "medium_level/L26%E6%9C%97%E8%AF%BB.srt",
+            "subType": "srt",
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L26朗读.mp3"
+          },
+          {
+            "title": "L27朗读",
+            "audioUrl": "medium_level/L27%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": "medium_level/L27%E6%9C%97%E8%AF%BB.srt",
+            "subType": "srt",
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L27朗读.mp3"
+          },
+          {
+            "title": "L28朗读",
+            "audioUrl": "medium_level/L28%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": "medium_level/L28%E6%9C%97%E8%AF%BB.srt",
+            "subType": "srt",
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L28朗读.mp3"
+          },
+          {
+            "title": "L29朗读",
+            "audioUrl": "medium_level/L29%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": "medium_level/L29%E6%9C%97%E8%AF%BB.srt",
+            "subType": "srt",
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L29朗读.mp3"
+          },
+          {
+            "title": "L30朗读",
+            "audioUrl": "medium_level/L30%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": "medium_level/L30%E6%9C%97%E8%AF%BB.srt",
+            "subType": "srt",
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L30朗读.mp3"
+          },
+          {
+            "title": "L31朗读",
+            "audioUrl": "medium_level/L31%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": "medium_level/L31%E6%9C%97%E8%AF%BB.srt",
+            "subType": "srt",
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L31朗读.mp3"
+          },
+          {
+            "title": "L32朗读",
+            "audioUrl": "medium_level/L32%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": "medium_level/L32%E6%9C%97%E8%AF%BB.srt",
+            "subType": "srt",
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L32朗读.mp3"
+          },
+          {
+            "title": "L33朗读",
+            "audioUrl": "medium_level/L33%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": "medium_level/L33%E6%9C%97%E8%AF%BB.srt",
+            "subType": "srt",
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L33朗读.mp3"
+          },
+          {
+            "title": "L34朗读",
+            "audioUrl": "medium_level/L34%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": "medium_level/L34%E6%9C%97%E8%AF%BB.srt",
+            "subType": "srt",
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L34朗读.mp3"
+          },
+          {
+            "title": "L35朗读",
+            "audioUrl": "medium_level/L35%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": "medium_level/L35%E6%9C%97%E8%AF%BB.srt",
+            "subType": "srt",
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L35朗读.mp3"
+          },
+          {
+            "title": "L36朗读",
+            "audioUrl": "medium_level/L36%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": "medium_level/L36%E6%9C%97%E8%AF%BB.srt",
+            "subType": "srt",
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L36朗读.mp3"
+          },
+          {
+            "title": "L37朗读",
+            "audioUrl": "medium_level/L37%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": "medium_level/L37%E6%9C%97%E8%AF%BB.srt",
+            "subType": "srt",
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L37朗读.mp3"
+          },
+          {
+            "title": "L38朗读",
+            "audioUrl": "medium_level/L38%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": "medium_level/L38%E6%9C%97%E8%AF%BB.srt",
+            "subType": "srt",
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L38朗读.mp3"
+          },
+          {
+            "title": "L39朗读",
+            "audioUrl": "medium_level/L39%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": "medium_level/L39%E6%9C%97%E8%AF%BB.srt",
+            "subType": "srt",
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L39朗读.mp3"
+          },
+          {
+            "title": "L40朗读",
+            "audioUrl": "medium_level/L40%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": "medium_level/L40%E6%9C%97%E8%AF%BB.srt",
+            "subType": "srt",
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L40朗读.mp3"
+          },
+          {
+            "title": "L41朗读",
+            "audioUrl": "medium_level/L41%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": "medium_level/L41%E6%9C%97%E8%AF%BB.srt",
+            "subType": "srt",
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L41朗读.mp3"
+          },
+          {
+            "title": "L42朗读",
+            "audioUrl": "medium_level/L42%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": "medium_level/L42%E6%9C%97%E8%AF%BB.srt",
+            "subType": "srt",
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L42朗读.mp3"
+          },
+          {
+            "title": "L43朗读",
+            "audioUrl": "medium_level/L43%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": "medium_level/L43%E6%9C%97%E8%AF%BB.srt",
+            "subType": "srt",
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L43朗读.mp3"
+          },
+          {
+            "title": "L44朗读",
+            "audioUrl": "medium_level/L44%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": "medium_level/L44%E6%9C%97%E8%AF%BB.srt",
+            "subType": "srt",
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L44朗读.mp3"
+          },
+          {
+            "title": "L45朗读",
+            "audioUrl": "medium_level/L45%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": "medium_level/L45%E6%9C%97%E8%AF%BB.srt",
+            "subType": "srt",
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L45朗读.mp3"
+          },
+          {
+            "title": "L46朗读",
+            "audioUrl": "medium_level/L46%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": "medium_level/L46%E6%9C%97%E8%AF%BB.srt",
+            "subType": "srt",
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L46朗读.mp3"
+          },
+          {
+            "title": "L47朗读",
+            "audioUrl": "medium_level/L47%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": "medium_level/L47%E6%9C%97%E8%AF%BB.srt",
+            "subType": "srt",
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L47朗读.mp3"
+          },
+          {
+            "title": "L48朗读",
+            "audioUrl": "medium_level/L48%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": "medium_level/L48%E6%9C%97%E8%AF%BB.srt",
+            "subType": "srt",
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L48朗读.mp3"
+          },
+          {
+            "title": "L49朗读",
+            "audioUrl": "medium_level/L49%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": "medium_level/L49%E6%9C%97%E8%AF%BB.srt",
+            "subType": "srt",
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L49朗读.mp3"
+          },
+          {
+            "title": "L50朗读",
+            "audioUrl": "medium_level/L50%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": "medium_level/L50%E6%9C%97%E8%AF%BB.srt",
+            "subType": "srt",
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L50朗读.mp3"
+          },
+          {
+            "title": "L51朗读",
+            "audioUrl": "medium_level/L51%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": "medium_level/L51%E6%9C%97%E8%AF%BB.srt",
+            "subType": "srt",
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L51朗读.mp3"
+          },
+          {
+            "title": "L52朗读",
+            "audioUrl": "medium_level/L52%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": "medium_level/L52%E6%9C%97%E8%AF%BB.srt",
+            "subType": "srt",
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L52朗读.mp3"
+          },
+          {
+            "title": "L53朗读",
+            "audioUrl": "medium_level/L53%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": "medium_level/L53%E6%9C%97%E8%AF%BB.srt",
+            "subType": "srt",
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L53朗读.mp3"
+          },
+          {
+            "title": "L54朗读",
+            "audioUrl": "medium_level/L54%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": "medium_level/L54%E6%9C%97%E8%AF%BB.srt",
+            "subType": "srt",
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L54朗读.mp3"
+          },
+          {
+            "title": "L55朗读",
+            "audioUrl": "medium_level/L55%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": "medium_level/L55%E6%9C%97%E8%AF%BB.srt",
+            "subType": "srt",
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L55朗读.mp3"
+          },
+          {
+            "title": "L56朗读",
+            "audioUrl": "medium_level/L56%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": "medium_level/L56%E6%9C%97%E8%AF%BB.srt",
+            "subType": "srt",
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L56朗读.mp3"
+          },
+          {
+            "title": "L57朗读",
+            "audioUrl": "medium_level/L57%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": "medium_level/L57%E6%9C%97%E8%AF%BB.srt",
+            "subType": "srt",
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L57朗读.mp3"
+          },
+          {
+            "title": "L58朗读",
+            "audioUrl": "medium_level/L58%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": "medium_level/L58%E6%9C%97%E8%AF%BB.srt",
+            "subType": "srt",
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L58朗读.mp3"
+          },
+          {
+            "title": "L59朗读",
+            "audioUrl": "medium_level/L59%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": "medium_level/L59%E6%9C%97%E8%AF%BB.srt",
+            "subType": "srt",
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L59朗读.mp3"
+          },
+          {
+            "title": "L60朗读",
+            "audioUrl": "medium_level/L60%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": "medium_level/L60%E6%9C%97%E8%AF%BB.srt",
+            "subType": "srt",
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L60朗读.mp3"
+          },
+          {
+            "title": "L61朗读",
+            "audioUrl": "medium_level/L61%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": "medium_level/L61%E6%9C%97%E8%AF%BB.srt",
+            "subType": "srt",
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L61朗读.mp3"
+          },
+          {
+            "title": "L62朗读",
+            "audioUrl": "medium_level/L62%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": "medium_level/L62%E6%9C%97%E8%AF%BB.srt",
+            "subType": "srt",
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L62朗读.mp3"
+          },
+          {
+            "title": "L63朗读",
+            "audioUrl": "medium_level/L63%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": "medium_level/L63%E6%9C%97%E8%AF%BB.srt",
+            "subType": "srt",
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L63朗读.mp3"
+          },
+          {
+            "title": "L64朗读",
+            "audioUrl": "medium_level/L64%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": null,
+            "subType": null,
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L64朗读.mp3"
+          },
+          {
+            "title": "L65朗读",
+            "audioUrl": "medium_level/L65%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": null,
+            "subType": null,
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L65朗读.mp3"
+          },
+          {
+            "title": "L66朗读",
+            "audioUrl": "medium_level/L66%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": null,
+            "subType": null,
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L66朗读.mp3"
+          },
+          {
+            "title": "L67朗读",
+            "audioUrl": "medium_level/L67%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": null,
+            "subType": null,
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L67朗读.mp3"
+          },
+          {
+            "title": "L68朗读",
+            "audioUrl": "medium_level/L68%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": null,
+            "subType": null,
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L68朗读.mp3"
+          },
+          {
+            "title": "L69朗读",
+            "audioUrl": "medium_level/L69%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": null,
+            "subType": null,
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L69朗读.mp3"
+          },
+          {
+            "title": "L70朗读",
+            "audioUrl": "medium_level/L70%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": null,
+            "subType": null,
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L70朗读.mp3"
+          },
+          {
+            "title": "L71朗读",
+            "audioUrl": "medium_level/L71%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": null,
+            "subType": null,
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L71朗读.mp3"
+          },
+          {
+            "title": "L72朗读",
+            "audioUrl": "medium_level/L72%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": null,
+            "subType": null,
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L72朗读.mp3"
+          },
+          {
+            "title": "L73朗读",
+            "audioUrl": "medium_level/L73%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": null,
+            "subType": null,
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L73朗读.mp3"
+          },
+          {
+            "title": "L74朗读",
+            "audioUrl": "medium_level/L74%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": null,
+            "subType": null,
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L74朗读.mp3"
+          },
+          {
+            "title": "L75朗读",
+            "audioUrl": "medium_level/L75%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": null,
+            "subType": null,
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L75朗读.mp3"
+          },
+          {
+            "title": "L76朗读",
+            "audioUrl": "medium_level/L76%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": null,
+            "subType": null,
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L76朗读.mp3"
+          },
+          {
+            "title": "L77朗读",
+            "audioUrl": "medium_level/L77%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": null,
+            "subType": null,
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L77朗读.mp3"
+          },
+          {
+            "title": "L78朗读",
+            "audioUrl": "medium_level/L78%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": null,
+            "subType": null,
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L78朗读.mp3"
+          },
+          {
+            "title": "L79朗读",
+            "audioUrl": "medium_level/L79%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": null,
+            "subType": null,
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L79朗读.mp3"
+          },
+          {
+            "title": "L80朗读",
+            "audioUrl": "medium_level/L80%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": null,
+            "subType": null,
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L80朗读.mp3"
+          },
+          {
+            "title": "L81朗读",
+            "audioUrl": "medium_level/L81%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": null,
+            "subType": null,
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L81朗读.mp3"
+          },
+          {
+            "title": "L82朗读",
+            "audioUrl": "medium_level/L82%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": null,
+            "subType": null,
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L82朗读.mp3"
+          },
+          {
+            "title": "L83朗读",
+            "audioUrl": "medium_level/L83%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": null,
+            "subType": null,
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L83朗读.mp3"
+          },
+          {
+            "title": "L84朗读",
+            "audioUrl": "medium_level/L84%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": null,
+            "subType": null,
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L84朗读.mp3"
+          },
+          {
+            "title": "L85朗读",
+            "audioUrl": "medium_level/L85%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": null,
+            "subType": null,
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L85朗读.mp3"
+          },
+          {
+            "title": "L86朗读",
+            "audioUrl": "medium_level/L86%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": null,
+            "subType": null,
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L86朗读.mp3"
+          },
+          {
+            "title": "L87朗读",
+            "audioUrl": "medium_level/L87%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": null,
+            "subType": null,
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L87朗读.mp3"
+          },
+          {
+            "title": "L88朗读",
+            "audioUrl": "medium_level/L88%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": null,
+            "subType": null,
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L88朗读.mp3"
+          },
+          {
+            "title": "L89朗读",
+            "audioUrl": "medium_level/L89%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": null,
+            "subType": null,
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L89朗读.mp3"
+          },
+          {
+            "title": "L90朗读",
+            "audioUrl": "medium_level/L90%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": null,
+            "subType": null,
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L90朗读.mp3"
+          },
+          {
+            "title": "L91朗读",
+            "audioUrl": "medium_level/L91%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": null,
+            "subType": null,
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L91朗读.mp3"
+          },
+          {
+            "title": "L92朗读",
+            "audioUrl": "medium_level/L92%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": null,
+            "subType": null,
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L92朗读.mp3"
+          },
+          {
+            "title": "L93朗读",
+            "audioUrl": "medium_level/L93%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": null,
+            "subType": null,
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L93朗读.mp3"
+          },
+          {
+            "title": "L94朗读",
+            "audioUrl": "medium_level/L94%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": null,
+            "subType": null,
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L94朗读.mp3"
+          },
+          {
+            "title": "L95朗读",
+            "audioUrl": "medium_level/L95%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": null,
+            "subType": null,
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L95朗读.mp3"
+          },
+          {
+            "title": "L96朗读",
+            "audioUrl": "medium_level/L96%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": null,
+            "subType": null,
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L96朗读.mp3"
+          },
+          {
+            "title": "L97朗读",
+            "audioUrl": "medium_level/L97%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": null,
+            "subType": null,
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L97朗读.mp3"
+          },
+          {
+            "title": "L98朗读",
+            "audioUrl": "medium_level/L98%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": null,
+            "subType": null,
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L98朗读.mp3"
+          },
+          {
+            "title": "L99朗读",
+            "audioUrl": "medium_level/L99%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": null,
+            "subType": null,
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L99朗读.mp3"
+          },
+          {
+            "title": "L100朗读",
+            "audioUrl": "medium_level/L100%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": null,
+            "subType": null,
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L100朗读.mp3"
+          },
+          {
+            "title": "L101朗读",
+            "audioUrl": "medium_level/L101%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": null,
+            "subType": null,
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L101朗读.mp3"
+          },
+          {
+            "title": "L102朗读",
+            "audioUrl": "medium_level/L102%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": null,
+            "subType": null,
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L102朗读.mp3"
+          },
+          {
+            "title": "L103朗读",
+            "audioUrl": "medium_level/L103%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": null,
+            "subType": null,
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L103朗读.mp3"
+          },
+          {
+            "title": "L104朗读",
+            "audioUrl": "medium_level/L104%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": null,
+            "subType": null,
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L104朗读.mp3"
+          },
+          {
+            "title": "L105朗读",
+            "audioUrl": "medium_level/L105%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": null,
+            "subType": null,
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L105朗读.mp3"
+          },
+          {
+            "title": "L106朗读",
+            "audioUrl": "medium_level/L106%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": null,
+            "subType": null,
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L106朗读.mp3"
+          },
+          {
+            "title": "L107朗读",
+            "audioUrl": "medium_level/L107%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": null,
+            "subType": null,
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L107朗读.mp3"
+          },
+          {
+            "title": "L108朗读",
+            "audioUrl": "medium_level/L108%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": null,
+            "subType": null,
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L108朗读.mp3"
+          },
+          {
+            "title": "L109朗读",
+            "audioUrl": "medium_level/L109%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": null,
+            "subType": null,
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L109朗读.mp3"
+          },
+          {
+            "title": "L110朗读",
+            "audioUrl": "medium_level/L110%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": null,
+            "subType": null,
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L110朗读.mp3"
+          },
+          {
+            "title": "L111朗读",
+            "audioUrl": "medium_level/L111%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": null,
+            "subType": null,
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L111朗读.mp3"
+          },
+          {
+            "title": "L112朗读",
+            "audioUrl": "medium_level/L112%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": null,
+            "subType": null,
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L112朗读.mp3"
+          },
+          {
+            "title": "L113朗读",
+            "audioUrl": "medium_level/L113%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": null,
+            "subType": null,
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L113朗读.mp3"
+          },
+          {
+            "title": "L114朗读",
+            "audioUrl": "medium_level/L114%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": null,
+            "subType": null,
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L114朗读.mp3"
+          },
+          {
+            "title": "L115朗读",
+            "audioUrl": "medium_level/L115%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": null,
+            "subType": null,
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L115朗读.mp3"
+          },
+          {
+            "title": "L116朗读",
+            "audioUrl": "medium_level/L116%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": null,
+            "subType": null,
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L116朗读.mp3"
+          },
+          {
+            "title": "L117朗读",
+            "audioUrl": "medium_level/L117%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": null,
+            "subType": null,
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L117朗读.mp3"
+          },
+          {
+            "title": "L118朗读",
+            "audioUrl": "medium_level/L118%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": null,
+            "subType": null,
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L118朗读.mp3"
+          },
+          {
+            "title": "L119朗读",
+            "audioUrl": "medium_level/L119%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": null,
+            "subType": null,
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L119朗读.mp3"
+          },
+          {
+            "title": "L120朗读",
+            "audioUrl": "medium_level/L120%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": null,
+            "subType": null,
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L120朗读.mp3"
+          },
+          {
+            "title": "L121朗读",
+            "audioUrl": "medium_level/L121%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": null,
+            "subType": null,
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L121朗读.mp3"
+          },
+          {
+            "title": "L122朗读",
+            "audioUrl": "medium_level/L122%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": null,
+            "subType": null,
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L122朗读.mp3"
+          },
+          {
+            "title": "L123朗读",
+            "audioUrl": "medium_level/L123%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": null,
+            "subType": null,
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L123朗读.mp3"
+          },
+          {
+            "title": "L124朗读",
+            "audioUrl": "medium_level/L124%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": null,
+            "subType": null,
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L124朗读.mp3"
+          },
+          {
+            "title": "L125朗读",
+            "audioUrl": "medium_level/L125%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": null,
+            "subType": null,
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L125朗读.mp3"
+          },
+          {
+            "title": "L126朗读",
+            "audioUrl": "medium_level/L126%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": null,
+            "subType": null,
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L126朗读.mp3"
+          },
+          {
+            "title": "L127朗读",
+            "audioUrl": "medium_level/L127%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": null,
+            "subType": null,
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L127朗读.mp3"
+          },
+          {
+            "title": "L128朗读",
+            "audioUrl": "medium_level/L128%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": null,
+            "subType": null,
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L128朗读.mp3"
+          },
+          {
+            "title": "L129朗读",
+            "audioUrl": "medium_level/L129%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": null,
+            "subType": null,
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L129朗读.mp3"
+          },
+          {
+            "title": "L130朗读",
+            "audioUrl": "medium_level/L130%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": null,
+            "subType": null,
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L130朗读.mp3"
+          },
+          {
+            "title": "L131朗读",
+            "audioUrl": "medium_level/L131%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": null,
+            "subType": null,
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L131朗读.mp3"
+          },
+          {
+            "title": "L132朗读",
+            "audioUrl": "medium_level/L132%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": null,
+            "subType": null,
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L132朗读.mp3"
+          },
+          {
+            "title": "L133朗读",
+            "audioUrl": "medium_level/L133%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": null,
+            "subType": null,
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L133朗读.mp3"
+          },
+          {
+            "title": "L134朗读",
+            "audioUrl": "medium_level/L134%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": null,
+            "subType": null,
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L134朗读.mp3"
+          },
+          {
+            "title": "L135朗读",
+            "audioUrl": "medium_level/L135%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": null,
+            "subType": null,
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L135朗读.mp3"
+          },
+          {
+            "title": "L136朗读",
+            "audioUrl": "medium_level/L136%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": null,
+            "subType": null,
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L136朗读.mp3"
+          },
+          {
+            "title": "L137朗读",
+            "audioUrl": "medium_level/L137%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": null,
+            "subType": null,
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L137朗读.mp3"
+          },
+          {
+            "title": "L138朗读",
+            "audioUrl": "medium_level/L138%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": null,
+            "subType": null,
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L138朗读.mp3"
+          },
+          {
+            "title": "L139朗读",
+            "audioUrl": "medium_level/L139%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": null,
+            "subType": null,
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L139朗读.mp3"
+          },
+          {
+            "title": "L140朗读",
+            "audioUrl": "medium_level/L140%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": null,
+            "subType": null,
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L140朗读.mp3"
+          },
+          {
+            "title": "L141朗读",
+            "audioUrl": "medium_level/L141%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": null,
+            "subType": null,
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L141朗读.mp3"
+          },
+          {
+            "title": "L142朗读",
+            "audioUrl": "medium_level/L142%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": null,
+            "subType": null,
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L142朗读.mp3"
+          },
+          {
+            "title": "L143朗读",
+            "audioUrl": "medium_level/L143%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": null,
+            "subType": null,
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L143朗读.mp3"
+          },
+          {
+            "title": "L144朗读",
+            "audioUrl": "medium_level/L144%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": null,
+            "subType": null,
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L144朗读.mp3"
+          },
+          {
+            "title": "L145朗读",
+            "audioUrl": "medium_level/L145%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": null,
+            "subType": null,
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L145朗读.mp3"
+          },
+          {
+            "title": "L146朗读",
+            "audioUrl": "medium_level/L146%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": null,
+            "subType": null,
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L146朗读.mp3"
+          },
+          {
+            "title": "L147朗读",
+            "audioUrl": "medium_level/L147%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": null,
+            "subType": null,
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L147朗读.mp3"
+          },
+          {
+            "title": "L148朗读",
+            "audioUrl": "medium_level/L148%E6%9C%97%E8%AF%BB.mp3",
+            "subUrl": null,
+            "subType": null,
+            "folderPath": "medium_level",
+            "relPath": "medium_level/L148朗读.mp3"
+          }
+        ]
+      }
+    },
+    "tracks": [
+      {
+        "title": "test_l33",
+        "audioUrl": "test_l33.wav",
+        "subUrl": null,
+        "subType": null,
+        "folderPath": "",
+        "relPath": "test_l33.wav"
+      }
+    ]
+  }
+}

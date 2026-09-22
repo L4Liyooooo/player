@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover, user-scalable=no">
+    <title>语言学习与音频复读播放器</title>
+    <link rel="stylesheet" href="player.css">
+</head>
+<body>
+
+    <div class="sidebar-backdrop" id="sidebarBackdrop"></div>
+    <div class="sheet-backdrop" id="sheetBackdrop"></div>
+
+    <!-- Sidebar: folder browser -->
+    <aside class="sidebar" id="sidebar">
+        <div class="sidebar-header">
+            <div class="brand-row">
+                <div class="brand">
+                    <span class="brand-mark">♪</span>
+                    <span>语言学习播放器</span>
+                </div>
+                <button class="btn-icon sidebar-close" id="btnCloseList" type="button" aria-label="关闭列表" title="关闭">×</button>
+            </div>
+            <div class="header-actions">
+                <button class="btn-folder" id="btnSelectFolder">选择本地音频目录</button>
+                <button class="btn-icon" id="btnRefresh" type="button" title="刷新目录" hidden>⟳</button>
+            </div>
+            <button class="btn-ghost" id="btnRestoreFolder" hidden>恢复上次目录</button>
+            <button class="btn-ghost danger" id="btnClearCache" hidden>清除浏览器缓存</button>
+            <div class="dir-hint" id="dirHint" hidden></div>
+            <input type="file" id="folderInput" webkitdirectory directory multiple style="display:none;">
+        </div>
+        <div class="path-bar" id="pathBar" hidden></div>
+        <div class="track-meta" id="trackMeta" hidden></div>
+        <ul class="track-list" id="trackList">
+            <li class="empty-state">
+                <div class="empty-icon">🎧</div>
+                <strong>选择一个文件夹开始</strong>
+                支持同名的 .srt 字幕文件
+            </li>
+        </ul>
+    </aside>
+
+    <!-- Main -->
+    <div class="main">
+        <!-- Top: title + status in one row -->
+        <header class="top-bar">
+            <div class="top-title" id="nowPlayingTitle">—</div>
+            <div class="top-status" id="statusTag">就绪</div>
+        </header>
+
+        <!-- Lyrics -->
+        <div class="lyrics-container" id="lyricsContainer">
+            <div class="lyrics-empty">
+                <strong>等待加载歌词</strong>
+                选择包含音频与字幕文件的文件夹后，歌词会显示在这里
+            </div>
+        </div>
+
+        <!-- Bottom dock -->
+        <footer class="dock">
+            <audio id="audioPlayer" playsinline preload="metadata"></audio>
+            <div class="seek-wrap" id="seekWrap">
+                <input type="range" id="seekBar" min="0" max="1000" value="0" step="1" aria-label="进度">
+                <div class="time-row">
+                    <span id="timeCur">0:00</span>
+                    <span id="timeDur">0:00</span>
+                </div>
+            </div>
+            <div class="dock-row">
+                <button class="dock-btn" id="btnOpenList" type="button" title="文件列表" aria-label="文件列表">☰</button>
+                <div class="dock-center">
+                    <button class="dock-btn" id="btnPrevTrack" type="button" title="上一曲" aria-label="上一曲">⏮</button>
+                    <button class="dock-btn dock-btn-line" id="btnPrevLine" type="button" title="上一段" aria-label="上一段">‹</button>
+                    <button class="dock-btn dock-play" id="btnPlayPause" type="button" title="播放/暂停" aria-label="播放/暂停">▶</button>
+                    <button class="dock-btn dock-btn-line" id="btnNextLine" type="button" title="下一段" aria-label="下一段">›</button>
+                    <button class="dock-btn" id="btnNextTrack" type="button" title="下一曲" aria-label="下一曲">⏭</button>
+                </div>
+                <button class="dock-btn" id="btnOpenSettings" type="button" title="设置" aria-label="设置">⚙</button>
+            </div>
+        </footer>
+    </div>
+
+    <!-- Settings sheet -->
+    <div class="settings-sheet" id="settingsSheet" hidden>
+        <div class="sheet-handle"></div>
+        <div class="sheet-title">学习设置</div>
+
+        <div class="sheet-group">
+            <div class="sheet-row">
+                <label for="btnStudyMode">学习模式</label>
+                <button class="sheet-btn" id="btnStudyMode" type="button">正常播放</button>
+            </div>
+            <!-- Sub-options only apply in 跟读模式 / 深度跟读 -->
+            <div class="sheet-children" id="studyModeChildren" hidden>
+                <div class="sheet-row sheet-sub">
+                    <label for="repeatTimes">段落重复</label>
+                    <select id="repeatTimes">
+                        <option value="1">1 次</option>
+                        <option value="2" selected>2 次</option>
+                        <option value="3">3 次</option>
+                        <option value="4">4 次</option>
+                        <option value="5">5 次</option>
+                        <option value="999">单句循环</option>
+                    </select>
+                </div>
+                <div class="sheet-row sheet-sub">
+                    <label for="pauseRatio">跟读停顿</label>
+                    <select id="pauseRatio">
+                        <option value="0">无停顿</option>
+                        <option value="1">1× 时长</option>
+                        <option value="1.5">1.5× 时长</option>
+                        <option value="2" selected>2× 时长</option>
+                        <option value="2.5">2.5× 时长</option>
+                        <option value="3">3× 时长</option>
+                    </select>
+                </div>
+            </div>
+        </div>
+
+        <div class="sheet-row">
+            <label for="btnPlayMode">列表模式</label>
+            <button class="sheet-btn" id="btnPlayMode" type="button">列表顺序</button>
+        </div>
+
+        <div class="sheet-row">
+            <label for="btnToggleLyrics">歌词</label>
+            <button class="sheet-btn" id="btnToggleLyrics" type="button">隐藏全部歌词</button>
+        </div>
+
+        <div class="sheet-row" id="rowTranscribe" hidden>
+            <label for="btnTranscribe">字幕</label>
+            <button class="sheet-btn" id="btnTranscribe" type="button">转录字幕（SRT）</button>
+        </div>
+
+        <button class="sheet-close" id="btnCloseSettings" type="button">完成</button>
+    </div>
+
+    <script src="player.js"></script>
+</body>
+</html>
